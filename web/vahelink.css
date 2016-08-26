@@ -1,0 +1,134 @@
+body{
+	background-image: url("");
+	text-align: center;
+}
+nav{
+	float: left;
+	z-index: auto;
+	position: fixed;
+	left: 0;
+	top: 70px;
+	background-color: rgba(53,53,53,0.7);
+	width: 300px;
+	height: 200px;
+	border-top-right-radius: 40px;
+	border-bottom-right-radius: 40px;
+	padding: 10px;
+}
+
+
+nav a{
+	text-decoration: none;
+	color: #FFFFB8;
+	font-family: Arial;
+	font-size: 20px;
+	padding: 10px;
+}
+
+nav a:hover{
+	color: #FFA99E;
+}
+
+
+ hr{
+	 border-color: #FFA99E;
+ }
+ 
+main{
+	background-color: rgba (255,169,158,0.7);
+	border: 2px solid #FFFFB8;
+	border-radius: 20px;
+} 
+ 
+ 
+
+main span{
+	height: 200px;
+	width: 400px;
+}
+main img{
+	position: raleative;
+	left: 400px;
+	z-index: 5;
+	height: 150px;
+	width: 100px;
+	border-top-left-radius: 40px;
+	border-bottom-left-radius: 40px;
+
+
+}
+
+#countryDiv{
+	background-color: rgba(255,255,184,08);
+}
+
+span{
+	
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.countries{
+	text-decoration: none;
+	font-family: Comic Sans Ms;
+	color: #FFA99E;
+}
+
+a:hover{
+	color: #444;
+}
+
+
+h1{
+	background-image: url("");
+	font-family: Arial;
+	color: #FFA99E
+}
+
+
+h2{
+	font-family: Foerte;
+	color: #FFA99E;
+}
+p{
+	font-family: Comic Sans Ms;
+	color:#FFFFB8;
+	margin-left: 70px;
+}
+img{
+	height: 150px;
+	width: 150px;
+	float: center;
+	margin: 10%;
+	border: 1px solid #333;
+	border-radius: 20px;
+}
+#hero{
+	
+	background-image: url("");
+}
+#jobs{
+	background-image: url("");
+	height: 200px;
+	width: 700px;
+
+
+}
+
+#tesla{
+	background-image: url("")
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+

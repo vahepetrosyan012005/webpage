@@ -1,0 +1,9 @@
+body{
+	background-image: url("s.jpg");
+}
+ 
+div{
+	margin: 20px;
+	padding: 100px;
+	background-color: rgba(0, 0, 0, 0.5)
+}
