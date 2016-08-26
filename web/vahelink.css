@@ -58,8 +58,8 @@ main img{
 
 }
 
-countryDiv{
-	background-color: rgba(255,255,184,06);
+#countryDiv{
+	background-color: rgba( 255, 255, 184, 06);
 }
 
 span{
